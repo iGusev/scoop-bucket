@@ -1,0 +1,15 @@
+{
+    "version": "0.2.9",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/igusev/glf/releases/download/v0.2.9/glf-0.2.9-windows_amd64.zip",
+            "bin": [
+                "glf.exe"
+            ],
+            "hash": "45c29f260b2a43127cd99b2f3ab0f633f1dc7d78eefba763c09cddb36383f00d"
+        }
+    },
+    "homepage": "https://github.com/igusev/glf",
+    "license": "MIT",
+    "description": "Fast CLI tool for instant fuzzy search across self-hosted GitLab projects"
+}
