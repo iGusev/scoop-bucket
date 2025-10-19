@@ -1,12 +1,12 @@
 {
-    "version": "0.2.9",
+    "version": "0.3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/igusev/glf/releases/download/v0.2.9/glf-0.2.9-windows_amd64.zip",
+            "url": "https://github.com/igusev/glf/releases/download/v0.3.0/glf-0.3.0-windows_amd64.zip",
             "bin": [
                 "glf.exe"
             ],
-            "hash": "45c29f260b2a43127cd99b2f3ab0f633f1dc7d78eefba763c09cddb36383f00d"
+            "hash": "5c7bfeb2d17a6a6c4cbbe058d28e5b2aef5ff8ce7a9c789ae61dc05b44c3fa6d"
         }
     },
     "homepage": "https://github.com/igusev/glf",
